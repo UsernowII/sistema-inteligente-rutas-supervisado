@@ -1,0 +1,73 @@
+origin,destination,origin_index,destination_index,order_gap,segments,route_class
+Portal Norte,Calle 100,0,1,1,1,corta
+Portal Norte,Calle 72,0,2,2,2,corta
+Portal Norte,Héroes,0,3,3,3,media
+Portal Norte,Calle 26,0,4,4,4,media
+Portal Norte,Museo Nacional,0,5,5,5,larga
+Portal Norte,Ricaurte,0,6,6,5,larga
+Portal Norte,Portal Américas,0,7,7,6,larga
+Portal Norte,Bosa,0,8,8,7,larga
+Calle 100,Portal Norte,1,0,1,1,corta
+Calle 100,Calle 72,1,2,1,1,corta
+Calle 100,Héroes,1,3,2,2,corta
+Calle 100,Calle 26,1,4,3,3,media
+Calle 100,Museo Nacional,1,5,4,4,media
+Calle 100,Ricaurte,1,6,5,4,media
+Calle 100,Portal Américas,1,7,6,5,larga
+Calle 100,Bosa,1,8,7,6,larga
+Calle 72,Portal Norte,2,0,2,2,corta
+Calle 72,Calle 100,2,1,1,1,corta
+Calle 72,Héroes,2,3,1,1,corta
+Calle 72,Calle 26,2,4,2,2,corta
+Calle 72,Museo Nacional,2,5,3,3,media
+Calle 72,Ricaurte,2,6,4,3,media
+Calle 72,Portal Américas,2,7,5,4,media
+Calle 72,Bosa,2,8,6,5,larga
+Héroes,Portal Norte,3,0,3,3,media
+Héroes,Calle 100,3,1,2,2,corta
+Héroes,Calle 72,3,2,1,1,corta
+Héroes,Calle 26,3,4,1,1,corta
+Héroes,Museo Nacional,3,5,2,2,corta
+Héroes,Ricaurte,3,6,3,2,corta
+Héroes,Portal Américas,3,7,4,3,media
+Héroes,Bosa,3,8,5,4,media
+Calle 26,Portal Norte,4,0,4,4,media
+Calle 26,Calle 100,4,1,3,3,media
+Calle 26,Calle 72,4,2,2,2,corta
+Calle 26,Héroes,4,3,1,1,corta
+Calle 26,Museo Nacional,4,5,1,1,corta
+Calle 26,Ricaurte,4,6,2,1,corta
+Calle 26,Portal Américas,4,7,3,2,corta
+Calle 26,Bosa,4,8,4,3,media
+Museo Nacional,Portal Norte,5,0,5,5,larga
+Museo Nacional,Calle 100,5,1,4,4,media
+Museo Nacional,Calle 72,5,2,3,3,media
+Museo Nacional,Héroes,5,3,2,2,corta
+Museo Nacional,Calle 26,5,4,1,1,corta
+Museo Nacional,Ricaurte,5,6,1,2,corta
+Museo Nacional,Portal Américas,5,7,2,3,media
+Museo Nacional,Bosa,5,8,3,4,media
+Ricaurte,Portal Norte,6,0,6,5,larga
+Ricaurte,Calle 100,6,1,5,4,media
+Ricaurte,Calle 72,6,2,4,3,media
+Ricaurte,Héroes,6,3,3,2,corta
+Ricaurte,Calle 26,6,4,2,1,corta
+Ricaurte,Museo Nacional,6,5,1,2,corta
+Ricaurte,Portal Américas,6,7,1,1,corta
+Ricaurte,Bosa,6,8,2,2,corta
+Portal Américas,Portal Norte,7,0,7,6,larga
+Portal Américas,Calle 100,7,1,6,5,larga
+Portal Américas,Calle 72,7,2,5,4,media
+Portal Américas,Héroes,7,3,4,3,media
+Portal Américas,Calle 26,7,4,3,2,corta
+Portal Américas,Museo Nacional,7,5,2,3,media
+Portal Américas,Ricaurte,7,6,1,1,corta
+Portal Américas,Bosa,7,8,1,1,corta
+Bosa,Portal Norte,8,0,8,7,larga
+Bosa,Calle 100,8,1,7,6,larga
+Bosa,Calle 72,8,2,6,5,larga
+Bosa,Héroes,8,3,5,4,media
+Bosa,Calle 26,8,4,4,3,media
+Bosa,Museo Nacional,8,5,3,4,media
+Bosa,Ricaurte,8,6,2,2,corta
+Bosa,Portal Américas,8,7,1,1,corta
